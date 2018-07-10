@@ -47,4 +47,5 @@ It's a web portal that manages books and users. Users based on their authenticat
 
 <img width="1438" alt="screen shot 2018-07-10 at 9 55 06 am" src="https://user-images.githubusercontent.com/38846724/42518434-743c6702-8427-11e8-8f7c-7eca2f91e736.png">
 <img width="1439" alt="screen shot 2018-07-10 at 9 57 45 am" src="https://user-images.githubusercontent.com/38846724/42518623-e341a52c-8427-11e8-8eaf-7801aa8906e1.png">
+<img width="1412" alt="screen shot 2018-07-10 at 12 40 16 pm" src="https://user-images.githubusercontent.com/38846724/42527559-9ff543d4-843e-11e8-87b1-a2a3bc89f0b9.png">
 
